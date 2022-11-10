@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @gurnard this is my online persona
+- 👋 Hi, I’m @gurnard this is my online persona not my real name :-)
 - 👀 I’m interested in Full stack development. I believe in developing complete solutions and products.
 - 🌱 I’m currently learning Domain Driven Design and Kafka
 - 💞️ I’m looking to collaborate on a project I have in the pipeline
